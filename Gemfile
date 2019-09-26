@@ -4,8 +4,5 @@ gem "sinatra"
 gem "Hashie"
 gem "Octokit"
 gem "AwesomePrint"
-
-group :development do 
-gem "pry"
-end
+gem "pry", :groups => [:development, :test]
 
