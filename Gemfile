@@ -9,8 +9,3 @@ group :development do
 gem "pry"
 end
 
-Hashie
-Sinatra
-Octokit
-Pry
-AwesomePrint
